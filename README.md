@@ -1,8 +1,10 @@
-<h1 align="center">Hi, I'm Trevour! 👋</h1>
-<p align="center">
-  <a href="https://github.com/kiiza-trevour">Software Developer</a> | 
-  <a href="https://www.linkedin.com/in/kiiza-trevour-82037a1a7/">Digital Activist</a>
-</p>
+# Hi there, I'm Kiiza Trevour 👋
+
+I'm a Software Developer passionate about using technology to drive social impact, especially in education and ICT for Development (ICT4D).  
+Currently pursuing a Master’s in ICT4D, I focus on AI-powered solutions that improve learning outcomes and community development.
+🌱 I’m continually learning AI integration, full-stack development, and project management.  
+💬 Ask me about PHP, React Native, AI, or sustainable tech solutions.  
+📫 Reach me at: [kiizatrevour@gmail.com](mailto:kiizatrevour@gmail.com)  
 
 ---
 
@@ -49,3 +51,4 @@ Feel free to customize this further with:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+](https://youtu.be/UX7wrzKNRgk)
