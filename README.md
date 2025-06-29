@@ -30,8 +30,6 @@ I’m especially passionate about AI-powered solutions and projects like **BioTu
 
 ## 📂 Featured Projects  
 
-## 📂 Featured Projects  
-
 Here are some of the projects I've worked on — solving real-world problems through tech, education, finance, and business systems.
 
 | Project | Description | Tech Stack |
