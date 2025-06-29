@@ -30,11 +30,24 @@ I’m especially passionate about AI-powered solutions and projects like **BioTu
 
 ## 📂 Featured Projects  
 
+## 📂 Featured Projects  
+
+Here are some of the projects I've worked on — solving real-world problems through tech, education, finance, and business systems.
+
 | Project | Description | Tech Stack |
-|:---------|:-------------|:--------------|
-| [**eVoting System**](https://evoting.gomotechnologies.com/) | Secure, online election management system for universities. | PHP, MySQL, Bootstrap |
-| [**Funds Management System**](https://csbag.raridalistores.com/) | Financial request, approval, and accountability management. | PHP, MySQL, JavaScript |
-| [**Poultry Management System**](https://poultry.raridalistores.com) | Manages poultry production, mortality, sales, and performance data. | PHP, MySQL, Bootstrap |
+|:------------------------------|:-----------------------------------------------------------|:------------------------|
+| [**eVoting System**](https://evoting.gomotechnologies.com/) | Secure, online election management system for universities and tertiary institutions. | PHP, MySQL, Bootstrap |
+| [**Funds Management System**](https://cashapp.raridalistores.com/) | Digital financial request, approval, fund disbursement, and accountability management platform for organizations. | PHP, MySQL, JavaScript |
+| [**Poultry Management System**](https://poultry.raridalistores.com) | System for managing poultry production records, mortality rates, sales, stock balances, and performance reports. | PHP, MySQL, Bootstrap |
+| [**Stock Balancing System**](https://sbs.cheap-technologies.com/) | Real-time inventory and sales management platform for retail businesses, pharmacies, and supermarkets. | PHP, MySQL, JavaScript |
+| [**TraceX Mobile App**] | Mobile app for detecting counterfeit ICT products via barcode/QR code scanning and product authenticity verification. | React Native, Firebase |
+| [**Raridali Intranet**](https://intranet.raridalistores.com/) | Internal communication and document sharing platform for RARIDALI CO. LTD, supporting staff collaboration and resource access. | PHP, MySQL, Bootstrap |
+| [**Washing Bay Management System**](https://wbms.raridalistores.com/) | Web application for managing vehicle washing bay operations, including customer records, sales tracking, and employee shifts. | PHP, MySQL, Bootstrap |
+| [**Project Management System**](https://csbag.raridalistores.com/) | Platform for managing project tasks, team roles, budgets, and progress tracking within organizations. | PHP, MySQL, JavaScript |
+
+---
+
+🛠️ **More projects coming soon...**
 
 
 ---
