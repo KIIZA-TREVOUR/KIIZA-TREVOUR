@@ -68,8 +68,7 @@ Here are some of the projects I've worked on — solving real-world problems thr
 - 📧 Email: [kiizatrevour@gmail.com](mailto:kiizatrevour@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kiiza-trevour-82037a1a7/)  
 - 🌐 [Portfolio](https://softhubtechsolutions.com)
-- [Twitter](https://twitter.com/kiizatrevour)  
-- [YouTube](https://www.youtube.com/c/Trevour256)  
+- [YouTube](https://www.youtube.com/@Trevour256) 
 
 
 ## 📚 ALX Journey  
