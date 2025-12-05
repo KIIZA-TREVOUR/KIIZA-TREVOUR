@@ -5,7 +5,7 @@
 
 # 👋 Hello, I'm **Kiiza Trevour**  
 
-🎓 **ALX Backend Engineering Program Learner** | 💻 **Software Developer** | 🌍 **ICT4D Enthusiast**
+🎓 **ALX Backend Engineering Program Graduate** | 💻 **Software Developer** | 🌍 **ICT4D Enthusiast**
 
 ---
 
@@ -37,12 +37,11 @@ Here are some of the projects I've worked on — solving real-world problems thr
 | [**eVoting System**](https://evoting.gomotechnologies.com/) | Secure, online election management system for universities and tertiary institutions. | PHP, MySQL, Bootstrap |
 | [**Funds Management System**](https://cashapp.raridalistores.com/) | Digital financial request, approval, fund disbursement, and accountability management platform for organizations. | PHP, MySQL, JavaScript |
 | [**Poultry Management System**](https://poultry.raridalistores.com) | System for managing poultry production records, mortality rates, sales, stock balances, and performance reports. | PHP, MySQL, Bootstrap |
-| [**Stock Balancing System**](https://sbs.cheap-technologies.com/) | Real-time inventory and sales management platform for retail businesses, pharmacies, and supermarkets. | PHP, MySQL, JavaScript |
 | [**TraceX Mobile App**] | Mobile app for detecting counterfeit ICT products via barcode/QR code scanning and product authenticity verification. | React Native, Firebase |
 | [**Raridali Intranet**](https://intranet.raridalistores.com/) | Internal communication and document sharing platform for RARIDALI CO. LTD, supporting staff collaboration and resource access. | PHP, MySQL, Bootstrap |
-| [**Washing Bay Management System**](https://wbms.raridalistores.com/) | Web application for managing vehicle washing bay operations, including customer records, sales tracking, and employee shifts. | PHP, MySQL, Bootstrap |
+| [**Washing Bay Management System**](https://rariwash.rarinet.com/) | Web application for managing vehicle washing bay operations, including customer records, sales tracking, and employee shifts. | PHP, MySQL, Bootstrap |
 | [**Project Management System**](https://csbag.raridalistores.com/) | Platform for managing project tasks, team roles, budgets, and progress tracking within organizations. | PHP, MySQL, JavaScript |
-
+| [**Microfinance Loan Management System**](https://loans.gomotechnologies.com/) | PComprehensive system for managing loans, savings accounts, borrower profiles, repayment schedules, and financial reporting. | CodeIgniter, MySQL, Bootstrap |
 ---
 
 🛠️ **More projects coming soon...**
@@ -67,7 +66,7 @@ Here are some of the projects I've worked on — solving real-world problems thr
 
 - 📧 Email: [kiizatrevour@gmail.com](mailto:kiizatrevour@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kiiza-trevour-82037a1a7/)  
-- 🌐 [Portfolio](https://softhubtechsolutions.com)
+- 🌐 [Portfolio](https://github.com/KIIZA-TREVOUR/)
 - [YouTube](https://www.youtube.com/@Trevour256) 
 
 
