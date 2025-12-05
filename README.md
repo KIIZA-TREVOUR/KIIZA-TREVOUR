@@ -13,8 +13,7 @@
 
 I’m a passionate **Software Developer** with a focus on solving real-world problems through technology. I started my journey in software engineering because I’m inspired by how code can transform communities, improve education, and elevate livelihoods.
 
-As a learner in the **ALX Backend Engineering Program**, I’m on a mission to become a **Full-Stack Software Engineer**, capable of building impactful projects that uplift both lives and financial capacity.
-
+As a graduate of the **ALX Backend Engineering Program**, I am advancing as a Software Engineer, capable of building impactful projects that uplift both lives and financial capacity.
 I’m especially passionate about AI-powered solutions and projects like **BioTutor** — an AI-driven platform enhancing secondary school Biology education in Uganda. I aim to leverage **ICT for Development (ICT4D)** to bridge the digital divide.
 
 ---
