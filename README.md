@@ -33,7 +33,7 @@ Here are some of the projects I've worked on — solving real-world problems thr
 
 | Project | Description | Tech Stack |
 |:------------------------------|:-----------------------------------------------------------|:------------------------|
-| [**eVoting System**](https://evoting.gomotechnologies.com/) | Secure, online election management system for universities and tertiary institutions. | PHP, MySQL, Bootstrap |
+| [**eVoting System**](https://evoting.gomotechnologies.com/) | Secure, online election management system for universities and tertiary institutions. | React, PHP, MySQL,
 | [**Funds Management System**](https://cashapp.raridalistores.com/) | Digital financial request, approval, fund disbursement, and accountability management platform for organizations. | PHP, MySQL, JavaScript |
 | [**Poultry Management System**](https://poultry.raridalistores.com) | System for managing poultry production records, mortality rates, sales, stock balances, and performance reports. | PHP, MySQL, Bootstrap |
 | [**TraceX Mobile App**] | Mobile app for detecting counterfeit ICT products via barcode/QR code scanning and product authenticity verification. | React Native, MySQL |
